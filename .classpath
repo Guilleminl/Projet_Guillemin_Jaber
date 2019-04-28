@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/JFreeChart/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="src/JFreeChart/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/guill/Desktop/Nouveau dossier/Lucas/src/mariadb-java-client-2.4.1.jar"/>
+	<classpathentry kind="output" path="out/production/Lucas"/>
+</classpath>
